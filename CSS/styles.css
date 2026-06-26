@@ -19,3 +19,12 @@ html, body, h1 {
     font-weight: bold;
     font-family: Arial, sans-serif;
 }
+
+.contact-section { 
+    background-image: url('../img/Backgrounds/Tunnel.jpg');
+    color: white;
+}
+
+.contact-section h2 {
+    text-align: center;
+}
